@@ -25,6 +25,3 @@
   <img alt='nextjs' src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=japsap&show_icons=true&locale=en&layout=compact" alt="japsap" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=japsap&" alt="japsap" /></p>
