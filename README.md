@@ -25,7 +25,7 @@
   <img alt='nextjs' src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
-:man_technologist: <p>Project i currently work on: <a href="https://github.com/japsap/Spotify-NextJS-Clone">Spotify Clone</a> using NextJS and TailwindCSS</h1>
+<span><p>Project i currently work on: <a href="https://github.com/japsap/Spotify-NextJS-Clone">Spotify Clone</a> using NextJS and TailwindCSS</p></span>:man_technologist: 
 
 <p>You can find my socials here</p>
 <a href='https://www.instagram.com/yourfavvalex/'>
