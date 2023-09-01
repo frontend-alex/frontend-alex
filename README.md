@@ -26,3 +26,7 @@
 </p>
 
 <p>Project i currently work on: <a href="https://github.com/japsap/Spotify-NextJS-Clone">Spotify Clone</a> using NextJS and TailwindCSS</h1>
+
+<p>You can find my socials here</p>
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
+
