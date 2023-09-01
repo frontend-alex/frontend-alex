@@ -25,3 +25,4 @@
   <img alt='nextjs' src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
+<h1>Project i currently work on: <a href="">Spotify Clone</a> using NextJS and TailwindCSS</h1>
