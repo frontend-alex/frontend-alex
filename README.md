@@ -29,7 +29,7 @@
 <p>:man_technologist:  Project i currently work on: <a href="https://github.com/japsap/Spotify-NextJS-Clone">Netflix</a> using Vite and TailwindCSS</p></span>
 
 <p>You can find my socials here</p>
-<a href='https://www.instagram.com/yourfavvalex/'>
+<a href='https://www.instagram.com/yourrfavalex/'>
   <img alt='instagram' src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aleksander-ivanov-0356a8274/">
