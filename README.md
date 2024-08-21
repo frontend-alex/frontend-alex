@@ -25,7 +25,7 @@
   <img alt='nextjs' src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
-<p>:man_technologist:  Project i currently work on: <a href="https://shop-one-eosin.vercel.app">SHOP. Online Store</a> using NextJS and TailwindCSS</p></span>
+<p>:man_technologist:  Project i currently work on: <a href="https://nextra-wine-alpha.vercel.app/">Nextra Technologies.</a> using NextJS and TailwindCSS</p></span>
 
 <p>You can find my socials here</p>
 <a href='https://www.instagram.com/yourrfavalex/'>
