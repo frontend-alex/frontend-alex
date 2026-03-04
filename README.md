@@ -31,7 +31,7 @@
 <a href='https://www.instagram.com/yourrfavalex/'>
   <img alt='instagram' src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/aleksander-ivanov-0356a8274/">
+<a href="https://www.linkedin.com/in/aiiivanov/">
   <img alt='linkedin' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
