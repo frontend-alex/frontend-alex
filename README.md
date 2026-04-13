@@ -25,10 +25,8 @@
   <img alt='nextjs' src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
-<p>:man_technologist:  Project i currently work on: <a href="https://aiivanov.dev">Aiivanov.dev</a></p>
-
 <p>You can find my socials here</p>
-<a href='https://www.instagram.com/yourrfavalex/'>
+<a href="https://www.instagram.com/yourrfavalex/">
   <img alt='instagram' src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aiiivanov/">
