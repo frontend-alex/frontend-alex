@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Alexander, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/128/197/197502.png" width="13"/> <b>Sofia, Bulgaria</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323275.png" width="13"/> <b>Eindhoven, Netherlands</b>. </p>
+<p>Welcome to my page! </br> I'm Aleksandar, Software Engineer from <img src="https://cdn-icons-png.flaticon.com/128/197/197502.png" width="13"/> <b>Sofia, Bulgaria</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/323/323275.png" width="13"/> <b>Eindhoven, Netherlands</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
