@@ -25,11 +25,3 @@
   <img alt='nextjs' src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
-<p>You can find my socials here</p>
-<a href="https://www.instagram.com/yourrfavalex/">
-  <img alt='instagram' src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aiiivanov/">
-  <img alt='linkedin' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
