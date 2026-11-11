@@ -5,7 +5,7 @@ From <img src="https://cdn-icons-png.flaticon.com/128/197/197502.png" width="13"
 Frontend & full-stack engineer building expressive interfaces, modular backends and AI-powered applications. My work spans React, Next.js and TypeScript, API-first architecture, and applied machine learning—from feature engineering and model evaluation to inference APIs.
 
 ### Frontend work
-- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/frontend/portfolio.svg" /><img src="assets/frontend/portfolio-light.svg" width="18" height="18" align="absmiddle" alt="" /></picture> [Portfolio](https://aiivanov.dev)
+- <picture style="margin-left:10px;"><source media="(prefers-color-scheme: dark)" srcset="assets/frontend/portfolio.svg" /><img src="assets/frontend/portfolio-light.svg" width="18" height="18" align="absmiddle" alt="" /></picture> [Portfolio](https://aiivanov.dev)
 - <picture><source media="(prefers-color-scheme: dark)" srcset="assets/frontend/khrest.svg" /><img src="assets/frontend/khrest-light.svg" width="24" height="24" align="absmiddle" alt="" /></picture> [Khrest Group](https://khrestgroup.com)
 - <picture><source media="(prefers-color-scheme: dark)" srcset="assets/frontend/aaa.svg" /><img src="assets/frontend/aaa-light.svg" width="24" height="24" align="absmiddle" alt="" /></picture> [AAA Architects](https://aaa-architects.vercel.app)
 - <img src="assets/frontend/bodyplusmind.svg" width="24" height="24" align="absmiddle" alt="" /> [BodyPlusMind](https://bodyplusmind.vercel.app)
